@@ -45,7 +45,7 @@ This guide simplifies integrating Firebase services into your Flutter app, lever
 
 ## Fastlane installation
 
-**Step1. Setup Fastlane**
+**Step 1. [Setup Fastlane](https://firebase.google.com/docs/app-distribution/android/distribute-fastlane#setup)**
 
   **1.[Fastlane Android Setup:](https://docs.fastlane.tools/getting-started/android/setup/)**
 
@@ -82,4 +82,6 @@ This guide simplifies integrating Firebase services into your Flutter app, lever
       fastlane add_plugin firebase_app_distribution
   ```
 
-**Step2. [Authenticate with Firebase](https://firebase.google.com/docs/app-distribution/android/distribute-fastlane)**
+**Step 2. [Authenticate with Firebase](https://firebase.google.com/docs/app-distribution/android/distribute-fastlane#authenticate)**
+
+**Step 3. [Setup fastfile and distribute your app](https://firebase.google.com/docs/app-distribution/android/distribute-fastlane#distribute)**
